@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Neon Docs"
+title: "Kuink Docs"
 ---
 
 ### Get Started
-This is neon documentation project!
+This is the kuink documentation project!
 
 
 #### Don't Forget
